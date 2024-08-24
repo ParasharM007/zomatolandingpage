@@ -1,0 +1,51 @@
+.indian-flag-logo {
+    width: 60px;
+    height: 50px;
+    position: relative;
+    margin: 10px 10px 0px 10px ;
+    
+}
+
+.saffron-stripe {
+    background-color: #FF9933;
+    height: 20%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.white-stripe {
+    background-color: #FFFFFF;
+    height: 20%;
+}
+
+.green-stripe {
+    background-color: #138808;
+    height: 20%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.chakra {
+    width: 20px;
+    height: 20px;
+    background-color: #000080;
+    border-radius: 50%;
+    position: absolute;
+    top: 12%;
+    left: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wheel {
+    width: 10px;
+    height: 10px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
